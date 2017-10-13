@@ -1,0 +1,50 @@
+body{
+	background: url("https://images.unsplash.com/photo-1460518451285-97b6aa326961?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&s=7d1f01e1c86f65d1b5c80927b75ce128");
+	background-repeat: no-repeat;
+	background-size:  cover;
+	/*background-position: 75% 25%;*/
+	/*background-position: left 2em;*/
+	background-position:center top;
+}
+
+/*body{
+	background: url("https://images.unsplash.com/photo-1496950866446-3253e1470e8e?dpr=1&auto=compress,format&fit=crop&w=376&h=251&q=80&cs=tinysrgb&crop=");
+	background-repeat: no-repeat;
+	background-size:  cover;
+}*/
+#content{
+	padding-top: 20%;
+	text-align: center;
+}
+
+h1{
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: 700;
+	color: white;
+	letter-spacing: 0.5em;
+}
+h3{
+	font-family: 'Ubuntu', sans-serif;
+	/*color: #e8e9ea;*/
+	color: #f4f4f4;
+	font-weight: 400;
+}
+button{
+	/*font-family: 'Ubuntu', sans-serif;*/
+	font-family: 'Gloria Hallelujah', cursive;
+	background: #e8e9ea;
+}
+hr{
+	width: 700px;
+}
+
+html{
+	height: 100%;
+	width: 100%;
+}
+.navbar-inverse .navbar-nav>li>a {
+	color: white;
+}
+.navbar-inverse .navbar-brand{
+	color: white;
+}

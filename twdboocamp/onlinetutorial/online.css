@@ -48,3 +48,8 @@ html{
 .navbar-inverse .navbar-brand{
 	color: white;
 }
+p{
+	color: #fff;
+	position: absolute;
+	bottom:  40px;
+}
